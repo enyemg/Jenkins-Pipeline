@@ -1,1 +1,0 @@
-# Learning Jenkins Pipeline
